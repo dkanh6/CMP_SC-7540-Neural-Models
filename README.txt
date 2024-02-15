@@ -1,1 +1,1 @@
-Just a reposiory for the class
+Just a reposiory to hold scripts for various projects
